@@ -13,7 +13,7 @@ body{
 #block-text {
     font-weight: 550;
     background-color: #fffaef;
-    border-left-style: dashed;
     border-left-style: solid;
     border-left-color: #f9c85e;
+    border-left-width:6px ;
 }
