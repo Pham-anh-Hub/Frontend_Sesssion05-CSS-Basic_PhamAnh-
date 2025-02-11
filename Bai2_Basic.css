@@ -1,0 +1,14 @@
+* {
+    background-color: black;
+}
+#heading {
+    color: white;
+}
+#paragrapgh-1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 600;
+    color:lawngreen ;
+    text-decoration-color:lawngreen ;
+    text-decoration: underline dotted;
+}

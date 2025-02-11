@@ -1,0 +1,17 @@
+/* Reset CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box_
+
+}
+
+.container {
+    width: 200%;
+    border-width: 1;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 25%;
+    background-color: rgb(202, 202, 202);
+    padding: 24px;
+}

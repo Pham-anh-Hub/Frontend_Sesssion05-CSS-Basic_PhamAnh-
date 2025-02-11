@@ -1,0 +1,30 @@
+/* CSS External */
+/* *{} định dạng cho toàn bộ các thứ trong html */
+
+#heading-1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+/* Adjacent  */
+h1 + p{
+    color: cadetblue;
+    font-weight: bold;
+}
+/* Desacent */
+.container p {
+    color: blueviolet;
+}
+
+#list-session li:nth-child(1){
+    color: blue;
+}
+#list-session li:nth-child(2){
+    color:chartreuse;
+}
+#list-session li:nth-child(3){
+    color:cornflowerblue;
+}
+

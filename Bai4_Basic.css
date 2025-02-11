@@ -1,0 +1,17 @@
+table{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.paragrapgh {
+    vertical-align:top;
+    font-weight: 700;
+    font-size: 32px;
+}
+.paragrapgh1 {
+    color:rgb(49, 48, 48);
+    font-size: 20px;
+}
+.hour {
+    color:rgb(119, 118, 118);
+    font-size: 20px;
+}
